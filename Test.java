@@ -4,4 +4,6 @@ public class Test {
     public Test(String haha) {
         this.haha = haha;
     }
+    public Test() {
+    }
 }
